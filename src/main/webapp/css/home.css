@@ -45,7 +45,7 @@
 .matter .content .matter-content .matter-list li .matter-title{ float:left; margin-left:18px; color:#000;}
 .matter .content .matter-content .matter-list li .matter-title:hover{ text-decoration:underline;}
 
-/*领导值岗*/
+/* 领导值岗 */
 .duty .content{ padding:8px 8px 0; height:190px;}
 .duty .content table{ width:100%;}
 .duty .content table tr{ line-height:30px;}
