@@ -2,7 +2,7 @@
 <html>
 <head>
 </head>
-<script type="text/javascript">
+<script  type="text/javascript">
 	window.location.href = "./toLogin.action";
 </script>
 <body>
